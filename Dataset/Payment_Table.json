@@ -1,0 +1,1502 @@
+[
+	{
+		"Payment_id": 1,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 461
+	},
+	{
+		"Payment_id": 2,
+		"Payment_type": " Cash",
+		"Total Amount": 32
+	},
+	{
+		"Payment_id": 3,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 540
+	},
+	{
+		"Payment_id": 4,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 306
+	},
+	{
+		"Payment_id": 5,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 999
+	},
+	{
+		"Payment_id": 6,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 900
+	},
+	{
+		"Payment_id": 7,
+		"Payment_type": " Cash",
+		"Total Amount": 297
+	},
+	{
+		"Payment_id": 8,
+		"Payment_type": " Cash",
+		"Total Amount": 89
+	},
+	{
+		"Payment_id": 9,
+		"Payment_type": " Cash",
+		"Total Amount": 627
+	},
+	{
+		"Payment_id": 10,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 860
+	},
+	{
+		"Payment_id": 11,
+		"Payment_type": " Cash",
+		"Total Amount": 41
+	},
+	{
+		"Payment_id": 12,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 522
+	},
+	{
+		"Payment_id": 13,
+		"Payment_type": " Cash",
+		"Total Amount": 150
+	},
+	{
+		"Payment_id": 14,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 802
+	},
+	{
+		"Payment_id": 15,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 908
+	},
+	{
+		"Payment_id": 16,
+		"Payment_type": " Cash",
+		"Total Amount": 402
+	},
+	{
+		"Payment_id": 17,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 335
+	},
+	{
+		"Payment_id": 18,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 813
+	},
+	{
+		"Payment_id": 19,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 747
+	},
+	{
+		"Payment_id": 20,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 80
+	},
+	{
+		"Payment_id": 21,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 618
+	},
+	{
+		"Payment_id": 22,
+		"Payment_type": " Cash",
+		"Total Amount": 246
+	},
+	{
+		"Payment_id": 23,
+		"Payment_type": " Cash",
+		"Total Amount": 75
+	},
+	{
+		"Payment_id": 24,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 327
+	},
+	{
+		"Payment_id": 25,
+		"Payment_type": " Cash",
+		"Total Amount": 303
+	},
+	{
+		"Payment_id": 26,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 688
+	},
+	{
+		"Payment_id": 27,
+		"Payment_type": " Cash",
+		"Total Amount": 956
+	},
+	{
+		"Payment_id": 28,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 73
+	},
+	{
+		"Payment_id": 29,
+		"Payment_type": " Cash",
+		"Total Amount": 615
+	},
+	{
+		"Payment_id": 30,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 942
+	},
+	{
+		"Payment_id": 31,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 215
+	},
+	{
+		"Payment_id": 32,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 167
+	},
+	{
+		"Payment_id": 33,
+		"Payment_type": " Cash",
+		"Total Amount": 962
+	},
+	{
+		"Payment_id": 34,
+		"Payment_type": " Cash",
+		"Total Amount": 733
+	},
+	{
+		"Payment_id": 35,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 150
+	},
+	{
+		"Payment_id": 36,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 340
+	},
+	{
+		"Payment_id": 37,
+		"Payment_type": " Cash",
+		"Total Amount": 933
+	},
+	{
+		"Payment_id": 38,
+		"Payment_type": " Cash",
+		"Total Amount": 360
+	},
+	{
+		"Payment_id": 39,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 968
+	},
+	{
+		"Payment_id": 40,
+		"Payment_type": " Cash",
+		"Total Amount": 421
+	},
+	{
+		"Payment_id": 41,
+		"Payment_type": " Cash",
+		"Total Amount": 954
+	},
+	{
+		"Payment_id": 42,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 603
+	},
+	{
+		"Payment_id": 43,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 865
+	},
+	{
+		"Payment_id": 44,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 875
+	},
+	{
+		"Payment_id": 45,
+		"Payment_type": " Cash",
+		"Total Amount": 920
+	},
+	{
+		"Payment_id": 46,
+		"Payment_type": " Cash",
+		"Total Amount": 126
+	},
+	{
+		"Payment_id": 47,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 80
+	},
+	{
+		"Payment_id": 48,
+		"Payment_type": " Cash",
+		"Total Amount": 142
+	},
+	{
+		"Payment_id": 49,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 309
+	},
+	{
+		"Payment_id": 50,
+		"Payment_type": " Cash",
+		"Total Amount": 289
+	},
+	{
+		"Payment_id": 51,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 580
+	},
+	{
+		"Payment_id": 52,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 468
+	},
+	{
+		"Payment_id": 53,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 714
+	},
+	{
+		"Payment_id": 54,
+		"Payment_type": " Cash",
+		"Total Amount": 362
+	},
+	{
+		"Payment_id": 55,
+		"Payment_type": " Cash",
+		"Total Amount": 961
+	},
+	{
+		"Payment_id": 56,
+		"Payment_type": " Cash",
+		"Total Amount": 386
+	},
+	{
+		"Payment_id": 57,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 34
+	},
+	{
+		"Payment_id": 58,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 37
+	},
+	{
+		"Payment_id": 59,
+		"Payment_type": " Cash",
+		"Total Amount": 14
+	},
+	{
+		"Payment_id": 60,
+		"Payment_type": " Cash",
+		"Total Amount": 114
+	},
+	{
+		"Payment_id": 61,
+		"Payment_type": " Cash",
+		"Total Amount": 528
+	},
+	{
+		"Payment_id": 62,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 595
+	},
+	{
+		"Payment_id": 63,
+		"Payment_type": " Cash",
+		"Total Amount": 254
+	},
+	{
+		"Payment_id": 64,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 925
+	},
+	{
+		"Payment_id": 65,
+		"Payment_type": " Cash",
+		"Total Amount": 632
+	},
+	{
+		"Payment_id": 66,
+		"Payment_type": " Cash",
+		"Total Amount": 570
+	},
+	{
+		"Payment_id": 67,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 393
+	},
+	{
+		"Payment_id": 68,
+		"Payment_type": " Cash",
+		"Total Amount": 707
+	},
+	{
+		"Payment_id": 69,
+		"Payment_type": " Cash",
+		"Total Amount": 430
+	},
+	{
+		"Payment_id": 70,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 264
+	},
+	{
+		"Payment_id": 71,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 950
+	},
+	{
+		"Payment_id": 72,
+		"Payment_type": " Cash",
+		"Total Amount": 76
+	},
+	{
+		"Payment_id": 73,
+		"Payment_type": " Cash",
+		"Total Amount": 567
+	},
+	{
+		"Payment_id": 74,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 867
+	},
+	{
+		"Payment_id": 75,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 894
+	},
+	{
+		"Payment_id": 76,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 583
+	},
+	{
+		"Payment_id": 77,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 162
+	},
+	{
+		"Payment_id": 78,
+		"Payment_type": " Cash",
+		"Total Amount": 787
+	},
+	{
+		"Payment_id": 79,
+		"Payment_type": " Cash",
+		"Total Amount": 897
+	},
+	{
+		"Payment_id": 80,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 959
+	},
+	{
+		"Payment_id": 81,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 519
+	},
+	{
+		"Payment_id": 82,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 971
+	},
+	{
+		"Payment_id": 83,
+		"Payment_type": " Cash",
+		"Total Amount": 205
+	},
+	{
+		"Payment_id": 84,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 828
+	},
+	{
+		"Payment_id": 85,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 837
+	},
+	{
+		"Payment_id": 86,
+		"Payment_type": " Cash",
+		"Total Amount": 47
+	},
+	{
+		"Payment_id": 87,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 498
+	},
+	{
+		"Payment_id": 88,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 379
+	},
+	{
+		"Payment_id": 89,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 262
+	},
+	{
+		"Payment_id": 90,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 487
+	},
+	{
+		"Payment_id": 91,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 273
+	},
+	{
+		"Payment_id": 92,
+		"Payment_type": " Cash",
+		"Total Amount": 886
+	},
+	{
+		"Payment_id": 93,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 82
+	},
+	{
+		"Payment_id": 94,
+		"Payment_type": " Cash",
+		"Total Amount": 974
+	},
+	{
+		"Payment_id": 95,
+		"Payment_type": "Credit Card ",
+		"Total Amount": 616
+	},
+	{
+		"Payment_id": 96,
+		"Payment_type": " Cash",
+		"Total Amount": 197
+	},
+	{
+		"Payment_id": 97,
+		"Payment_type": " Cash",
+		"Total Amount": 767
+	},
+	{
+		"Payment_id": 98,
+		"Payment_type": " Cash",
+		"Total Amount": 221
+	},
+	{
+		"Payment_id": 99,
+		"Payment_type": " Debit Card ",
+		"Total Amount": 494
+	},
+	{
+		"Payment_id": 100,
+		"Payment_type": " Cash",
+		"Total Amount": 543
+	},
+        {
+		"Payment_id": 101,
+		"Payment_type": " Cash",
+		"Total_Amount": 372
+	},
+	{
+		"Payment_id": 102,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 186
+	},
+	{
+		"Payment_id": 103,
+		"Payment_type": " Cash",
+		"Total_Amount": 81
+	},
+	{
+		"Payment_id": 104,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 187
+	},
+	{
+		"Payment_id": 105,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 669
+	},
+	{
+		"Payment_id": 106,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 212
+	},
+	{
+		"Payment_id": 107,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 730
+	},
+	{
+		"Payment_id": 108,
+		"Payment_type": " Cash",
+		"Total_Amount": 937
+	},
+	{
+		"Payment_id": 109,
+		"Payment_type": " Cash",
+		"Total_Amount": 595
+	},
+	{
+		"Payment_id": 110,
+		"Payment_type": " Cash",
+		"Total_Amount": 872
+	},
+	{
+		"Payment_id": 111,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 745
+	},
+	{
+		"Payment_id": 112,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 611
+	},
+	{
+		"Payment_id": 113,
+		"Payment_type": " Cash",
+		"Total_Amount": 550
+	},
+	{
+		"Payment_id": 114,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 675
+	},
+	{
+		"Payment_id": 115,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 90
+	},
+	{
+		"Payment_id": 116,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 757
+	},
+	{
+		"Payment_id": 117,
+		"Payment_type": " Cash",
+		"Total_Amount": 487
+	},
+	{
+		"Payment_id": 118,
+		"Payment_type": " Cash",
+		"Total_Amount": 745
+	},
+	{
+		"Payment_id": 119,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 707
+	},
+	{
+		"Payment_id": 120,
+		"Payment_type": " Cash",
+		"Total_Amount": 526
+	},
+	{
+		"Payment_id": 121,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 753
+	},
+	{
+		"Payment_id": 122,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 711
+	},
+	{
+		"Payment_id": 123,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 449
+	},
+	{
+		"Payment_id": 124,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 226
+	},
+	{
+		"Payment_id": 125,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 289
+	},
+	{
+		"Payment_id": 126,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 617
+	},
+	{
+		"Payment_id": 127,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 145
+	},
+	{
+		"Payment_id": 128,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 746
+	},
+	{
+		"Payment_id": 129,
+		"Payment_type": " Cash",
+		"Total_Amount": 663
+	},
+	{
+		"Payment_id": 130,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 74
+	},
+	{
+		"Payment_id": 131,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 535
+	},
+	{
+		"Payment_id": 132,
+		"Payment_type": " Cash",
+		"Total_Amount": 262
+	},
+	{
+		"Payment_id": 133,
+		"Payment_type": " Cash",
+		"Total_Amount": 457
+	},
+	{
+		"Payment_id": 134,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 589
+	},
+	{
+		"Payment_id": 135,
+		"Payment_type": " Cash",
+		"Total_Amount": 393
+	},
+	{
+		"Payment_id": 136,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 145
+	},
+	{
+		"Payment_id": 137,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 541
+	},
+	{
+		"Payment_id": 138,
+		"Payment_type": " Cash",
+		"Total_Amount": 214
+	},
+	{
+		"Payment_id": 139,
+		"Payment_type": " Cash",
+		"Total_Amount": 458
+	},
+	{
+		"Payment_id": 140,
+		"Payment_type": " Cash",
+		"Total_Amount": 937
+	},
+	{
+		"Payment_id": 141,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 469
+	},
+	{
+		"Payment_id": 142,
+		"Payment_type": " Cash",
+		"Total_Amount": 236
+	},
+	{
+		"Payment_id": 143,
+		"Payment_type": " Cash",
+		"Total_Amount": 262
+	},
+	{
+		"Payment_id": 144,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 748
+	},
+	{
+		"Payment_id": 145,
+		"Payment_type": " Cash",
+		"Total_Amount": 385
+	},
+	{
+		"Payment_id": 146,
+		"Payment_type": " Cash",
+		"Total_Amount": 870
+	},
+	{
+		"Payment_id": 147,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 55
+	},
+	{
+		"Payment_id": 148,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 249
+	},
+	{
+		"Payment_id": 149,
+		"Payment_type": " Cash",
+		"Total_Amount": 986
+	},
+	{
+		"Payment_id": 150,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 810
+	},
+	{
+		"Payment_id": 151,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 961
+	},
+	{
+		"Payment_id": 152,
+		"Payment_type": " Cash",
+		"Total_Amount": 193
+	},
+	{
+		"Payment_id": 153,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 144
+	},
+	{
+		"Payment_id": 154,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 325
+	},
+	{
+		"Payment_id": 155,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 842
+	},
+	{
+		"Payment_id": 156,
+		"Payment_type": " Cash",
+		"Total_Amount": 118
+	},
+	{
+		"Payment_id": 157,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 16
+	},
+	{
+		"Payment_id": 158,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 539
+	},
+	{
+		"Payment_id": 159,
+		"Payment_type": " Cash",
+		"Total_Amount": 951
+	},
+	{
+		"Payment_id": 160,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 473
+	},
+	{
+		"Payment_id": 161,
+		"Payment_type": " Cash",
+		"Total_Amount": 232
+	},
+	{
+		"Payment_id": 162,
+		"Payment_type": " Cash",
+		"Total_Amount": 384
+	},
+	{
+		"Payment_id": 163,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 980
+	},
+	{
+		"Payment_id": 164,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 659
+	},
+	{
+		"Payment_id": 165,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 841
+	},
+	{
+		"Payment_id": 166,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 383
+	},
+	{
+		"Payment_id": 167,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 277
+	},
+	{
+		"Payment_id": 168,
+		"Payment_type": " Cash",
+		"Total_Amount": 620
+	},
+	{
+		"Payment_id": 169,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 744
+	},
+	{
+		"Payment_id": 170,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 523
+	},
+	{
+		"Payment_id": 171,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 778
+	},
+	{
+		"Payment_id": 172,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 673
+	},
+	{
+		"Payment_id": 173,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 857
+	},
+	{
+		"Payment_id": 174,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 611
+	},
+	{
+		"Payment_id": 175,
+		"Payment_type": " Cash",
+		"Total_Amount": 191
+	},
+	{
+		"Payment_id": 176,
+		"Payment_type": " Cash",
+		"Total_Amount": 252
+	},
+	{
+		"Payment_id": 177,
+		"Payment_type": " Cash",
+		"Total_Amount": 376
+	},
+	{
+		"Payment_id": 178,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 745
+	},
+	{
+		"Payment_id": 179,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 104
+	},
+	{
+		"Payment_id": 180,
+		"Payment_type": " Cash",
+		"Total_Amount": 833
+	},
+	{
+		"Payment_id": 181,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 629
+	},
+	{
+		"Payment_id": 182,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 461
+	},
+	{
+		"Payment_id": 183,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 14
+	},
+	{
+		"Payment_id": 184,
+		"Payment_type": " Cash",
+		"Total_Amount": 75
+	},
+	{
+		"Payment_id": 185,
+		"Payment_type": " Cash",
+		"Total_Amount": 912
+	},
+	{
+		"Payment_id": 186,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 474
+	},
+	{
+		"Payment_id": 187,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 270
+	},
+	{
+		"Payment_id": 188,
+		"Payment_type": " Cash",
+		"Total_Amount": 11
+	},
+	{
+		"Payment_id": 189,
+		"Payment_type": " Cash",
+		"Total_Amount": 936
+	},
+	{
+		"Payment_id": 190,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 52
+	},
+	{
+		"Payment_id": 191,
+		"Payment_type": " Cash",
+		"Total_Amount": 463
+	},
+	{
+		"Payment_id": 192,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 914
+	},
+	{
+		"Payment_id": 193,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 50
+	},
+	{
+		"Payment_id": 194,
+		"Payment_type": " Cash",
+		"Total_Amount": 852
+	},
+	{
+		"Payment_id": 195,
+		"Payment_type": " Cash",
+		"Total_Amount": 435
+	},
+	{
+		"Payment_id": 196,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 195
+	},
+	{
+		"Payment_id": 197,
+		"Payment_type": " Cash",
+		"Total_Amount": 778
+	},
+	{
+		"Payment_id": 198,
+		"Payment_type": " Cash",
+		"Total_Amount": 211
+	},
+	{
+		"Payment_id": 199,
+		"Payment_type": " Cash",
+		"Total_Amount": 620
+	},
+	{
+		"Payment_id": 200,
+		"Payment_type": " Cash",
+		"Total_Amount": 67
+	},
+        {
+		"Payment_id": 201,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 879
+	},
+	{
+		"Payment_id": 202,
+		"Payment_type": " Cash",
+		"Total_Amount": 208
+	},
+	{
+		"Payment_id": 203,
+		"Payment_type": " Cash",
+		"Total_Amount": 177
+	},
+	{
+		"Payment_id": 204,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 925
+	},
+	{
+		"Payment_id": 205,
+		"Payment_type": " Cash",
+		"Total_Amount": 749
+	},
+	{
+		"Payment_id": 206,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 619
+	},
+	{
+		"Payment_id": 207,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 195
+	},
+	{
+		"Payment_id": 208,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 290
+	},
+	{
+		"Payment_id": 209,
+		"Payment_type": " Cash",
+		"Total_Amount": 292
+	},
+	{
+		"Payment_id": 210,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 346
+	},
+	{
+		"Payment_id": 211,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 21
+	},
+	{
+		"Payment_id": 212,
+		"Payment_type": " Cash",
+		"Total_Amount": 337
+	},
+	{
+		"Payment_id": 213,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 487
+	},
+	{
+		"Payment_id": 214,
+		"Payment_type": " Cash",
+		"Total_Amount": 508
+	},
+	{
+		"Payment_id": 215,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 872
+	},
+	{
+		"Payment_id": 216,
+		"Payment_type": " Cash",
+		"Total_Amount": 258
+	},
+	{
+		"Payment_id": 217,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 768
+	},
+	{
+		"Payment_id": 218,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 664
+	},
+	{
+		"Payment_id": 219,
+		"Payment_type": " Cash",
+		"Total_Amount": 682
+	},
+	{
+		"Payment_id": 220,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 641
+	},
+	{
+		"Payment_id": 221,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 842
+	},
+	{
+		"Payment_id": 222,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 652
+	},
+	{
+		"Payment_id": 223,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 764
+	},
+	{
+		"Payment_id": 224,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 171
+	},
+	{
+		"Payment_id": 225,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 775
+	},
+	{
+		"Payment_id": 226,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 663
+	},
+	{
+		"Payment_id": 227,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 783
+	},
+	{
+		"Payment_id": 228,
+		"Payment_type": " Cash",
+		"Total_Amount": 333
+	},
+	{
+		"Payment_id": 229,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 353
+	},
+	{
+		"Payment_id": 230,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 571
+	},
+	{
+		"Payment_id": 231,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 985
+	},
+	{
+		"Payment_id": 232,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 522
+	},
+	{
+		"Payment_id": 233,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 925
+	},
+	{
+		"Payment_id": 234,
+		"Payment_type": " Cash",
+		"Total_Amount": 622
+	},
+	{
+		"Payment_id": 235,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 336
+	},
+	{
+		"Payment_id": 236,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 631
+	},
+	{
+		"Payment_id": 237,
+		"Payment_type": " Cash",
+		"Total_Amount": 994
+	},
+	{
+		"Payment_id": 238,
+		"Payment_type": " Cash",
+		"Total_Amount": 128
+	},
+	{
+		"Payment_id": 239,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 766
+	},
+	{
+		"Payment_id": 240,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 562
+	},
+	{
+		"Payment_id": 241,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 935
+	},
+	{
+		"Payment_id": 242,
+		"Payment_type": " Cash",
+		"Total_Amount": 89
+	},
+	{
+		"Payment_id": 243,
+		"Payment_type": " Cash",
+		"Total_Amount": 767
+	},
+	{
+		"Payment_id": 244,
+		"Payment_type": " Cash",
+		"Total_Amount": 962
+	},
+	{
+		"Payment_id": 245,
+		"Payment_type": " Cash",
+		"Total_Amount": 737
+	},
+	{
+		"Payment_id": 246,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 998
+	},
+	{
+		"Payment_id": 247,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 18
+	},
+	{
+		"Payment_id": 248,
+		"Payment_type": " Cash",
+		"Total_Amount": 366
+	},
+	{
+		"Payment_id": 249,
+		"Payment_type": " Cash",
+		"Total_Amount": 998
+	},
+	{
+		"Payment_id": 250,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 791
+	},
+	{
+		"Payment_id": 251,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 311
+	},
+	{
+		"Payment_id": 252,
+		"Payment_type": " Cash",
+		"Total_Amount": 66
+	},
+	{
+		"Payment_id": 253,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 729
+	},
+	{
+		"Payment_id": 254,
+		"Payment_type": " Cash",
+		"Total_Amount": 527
+	},
+	{
+		"Payment_id": 255,
+		"Payment_type": " Cash",
+		"Total_Amount": 889
+	},
+	{
+		"Payment_id": 256,
+		"Payment_type": " Cash",
+		"Total_Amount": 704
+	},
+	{
+		"Payment_id": 257,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 865
+	},
+	{
+		"Payment_id": 258,
+		"Payment_type": " Cash",
+		"Total_Amount": 610
+	},
+	{
+		"Payment_id": 259,
+		"Payment_type": " Cash",
+		"Total_Amount": 819
+	},
+	{
+		"Payment_id": 260,
+		"Payment_type": " Cash",
+		"Total_Amount": 666
+	},
+	{
+		"Payment_id": 261,
+		"Payment_type": " Cash",
+		"Total_Amount": 914
+	},
+	{
+		"Payment_id": 262,
+		"Payment_type": " Cash",
+		"Total_Amount": 534
+	},
+	{
+		"Payment_id": 263,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 596
+	},
+	{
+		"Payment_id": 264,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 940
+	},
+	{
+		"Payment_id": 265,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 561
+	},
+	{
+		"Payment_id": 266,
+		"Payment_type": " Cash",
+		"Total_Amount": 544
+	},
+	{
+		"Payment_id": 267,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 463
+	},
+	{
+		"Payment_id": 268,
+		"Payment_type": " Cash",
+		"Total_Amount": 499
+	},
+	{
+		"Payment_id": 269,
+		"Payment_type": " Cash",
+		"Total_Amount": 910
+	},
+	{
+		"Payment_id": 270,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 471
+	},
+	{
+		"Payment_id": 271,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 184
+	},
+	{
+		"Payment_id": 272,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 724
+	},
+	{
+		"Payment_id": 273,
+		"Payment_type": " Cash",
+		"Total_Amount": 972
+	},
+	{
+		"Payment_id": 274,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 991
+	},
+	{
+		"Payment_id": 275,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 497
+	},
+	{
+		"Payment_id": 276,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 786
+	},
+	{
+		"Payment_id": 277,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 510
+	},
+	{
+		"Payment_id": 278,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 450
+	},
+	{
+		"Payment_id": 279,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 435
+	},
+	{
+		"Payment_id": 280,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 248
+	},
+	{
+		"Payment_id": 281,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 358
+	},
+	{
+		"Payment_id": 282,
+		"Payment_type": " Cash",
+		"Total_Amount": 569
+	},
+	{
+		"Payment_id": 283,
+		"Payment_type": " Cash",
+		"Total_Amount": 179
+	},
+	{
+		"Payment_id": 284,
+		"Payment_type": " Cash",
+		"Total_Amount": 256
+	},
+	{
+		"Payment_id": 285,
+		"Payment_type": " Cash",
+		"Total_Amount": 442
+	},
+	{
+		"Payment_id": 286,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 792
+	},
+	{
+		"Payment_id": 287,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 637
+	},
+	{
+		"Payment_id": 288,
+		"Payment_type": " Cash",
+		"Total_Amount": 750
+	},
+	{
+		"Payment_id": 289,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 71
+	},
+	{
+		"Payment_id": 290,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 484
+	},
+	{
+		"Payment_id": 291,
+		"Payment_type": " Cash",
+		"Total_Amount": 866
+	},
+	{
+		"Payment_id": 292,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 76
+	},
+	{
+		"Payment_id": 293,
+		"Payment_type": " Cash",
+		"Total_Amount": 396
+	},
+	{
+		"Payment_id": 294,
+		"Payment_type": " Cash",
+		"Total_Amount": 386
+	},
+	{
+		"Payment_id": 295,
+		"Payment_type": " Debit Card ",
+		"Total_Amount": 888
+	},
+	{
+		"Payment_id": 296,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 690
+	},
+	{
+		"Payment_id": 297,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 619
+	},
+	{
+		"Payment_id": 298,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 464
+	},
+	{
+		"Payment_id": 299,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 142
+	},
+	{
+		"Payment_id": 300,
+		"Payment_type": "Credit Card ",
+		"Total_Amount": 536
+	}
+]
